@@ -1,3 +1,7 @@
+
+<img width="1414" height="2000" alt="GÖRÜNTÜ İŞLEME İLE EL HAREKETLERİNDEN OYUN" src="https://github.com/user-attachments/assets/4f9496a1-4ac1-4fe0-bb9a-0b8c4046493f" />
+
+
 # Görüntü İşleme - El işaretleri ile Tetris ve Jetpack Joyride
 
 Bu proje, basit sayılabilecek bir el işareti algılama modelinin ürünleştirilme ve model kurulumu projesidir.
